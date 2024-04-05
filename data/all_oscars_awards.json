@@ -230,18 +230,6 @@
                 "Thomas Newman"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Slumdog Millionaire",
-            "winner_cast": "Jai Ho in \"Slumdog Millionaire\" Music by A.R. Rahman; Lyric by Gulzar",
-            "nominees_movies": [
-                "WALL-E",
-                "Slumdog Millionaire"
-            ],
-            "nominees_cast": [
-                "Down To Earth in \"WALL-E\" Music by Peter Gabriel and Thomas Newman; Lyric by Peter Gabriel",
-                "O Saya in \"Slumdog Millionaire\" Music and Lyric by A.R. Rahman and Maya Arulpragasam"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "Slumdog Millionaire",
             "winner_cast": "Christian Colson, Producer",
@@ -602,22 +590,6 @@
                 "Alexandre Desplat",
                 "Marco Beltrami and Buck Sanders",
                 "Hans Zimmer"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "Crazy Heart",
-            "winner_cast": "The Weary Kind (Theme From Crazy Heart) in \"Crazy Heart\" Music and Lyric by Ryan Bingham and T Bone Burnett",
-            "nominees_movies": [
-                "The Princess and the Frog",
-                "The Princess and the Frog",
-                "Paris 36",
-                "Nine"
-            ],
-            "nominees_cast": [
-                "Almost There in \"The Princess and the Frog\" Music and Lyric by Randy Newman",
-                "Down In New Orleans in \"The Princess and the Frog\" Music and Lyric by Randy Newman",
-                "Loin De Paname in \"Paris 36\" Music by Reinhardt Wagner; Lyric by Frank Thomas",
-                "Take It All in \"Nine\" Music and Lyric by Maury Yeston"
             ]
         },
         "Best Picture": {
@@ -986,20 +958,6 @@
                 "Hans Zimmer",
                 "Alexandre Desplat",
                 "A.R. Rahman"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "Toy Story 3",
-            "winner_cast": "We Belong Together in \"Toy Story 3\" Music and Lyric by Randy Newman",
-            "nominees_movies": [
-                "Country Strong",
-                "Tangled",
-                "127 Hours"
-            ],
-            "nominees_cast": [
-                "Coming Home in \"Country Strong\" Music and Lyric by Tom Douglas, Troy Verges and Hillary Lindsey",
-                "I See The Light in \"Tangled\" Music by Alan Menken; Lyric by Glenn Slater",
-                "If I Rise in \"127 Hours\" Music by A.R. Rahman; Lyric by Dido and Rollo Armstrong"
             ]
         },
         "Best Picture": {
@@ -1378,16 +1336,6 @@
                 "John Williams"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "The Muppets",
-            "winner_cast": "\"Man Or Muppet\" in The Muppets; Music and Lyric by Bret McKenzie",
-            "nominees_movies": [
-                "Rio"
-            ],
-            "nominees_cast": [
-                "Real In Rio in \"Rio\" Music by Sergio Mendes and Carlinhos Brown; Lyric by Siedah Garrett"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "The Artist",
             "winner_cast": "Thomas Langmann, Producer",
@@ -1742,22 +1690,6 @@
                 "Alexandre Desplat",
                 "John Williams",
                 "Thomas Newman"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "Skyfall",
-            "winner_cast": "Skyfall in \"Skyfall\" Music and Lyric by Adele Adkins and Paul Epworth",
-            "nominees_movies": [
-                "Chasing Ice",
-                "Ted",
-                "Life of Pi",
-                "Les Misérables"
-            ],
-            "nominees_cast": [
-                "Before My Time in \"Chasing Ice\" Music and Lyric by J. Ralph",
-                "Everybody Needs A Best Friend in \"Ted\" Music by Walter Murphy; Lyric by Seth MacFarlane",
-                "Pi's Lullaby in \"Life of Pi\" Music by Mychael Danna; Lyric by Bombay Jayashri",
-                "Suddenly in \"Les Misérables\" Music by Claude-Michel Schönberg; Lyric by Herbert Kretzmer and Alain Boublil"
             ]
         },
         "Best Picture": {
@@ -2130,20 +2062,6 @@
                 "William Butler and Owen Pallett",
                 "Alexandre Desplat",
                 "Thomas Newman"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "Frozen",
-            "winner_cast": "\"Let It Go\" in Frozen; Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
-            "nominees_movies": [
-                "Despicable Me 2",
-                "Her",
-                "Mandela: Long Walk to Freedom"
-            ],
-            "nominees_cast": [
-                "Happy in \"Despicable Me 2\" Music and Lyric by Pharrell Williams",
-                "The Moon Song in \"Her\" Music by Karen O; Lyric by Karen O and Spike Jonze",
-                "Ordinary Love in \"Mandela: Long Walk to Freedom\" Music by Paul Hewson, Dave Evans, Adam Clayton and Larry Mullen; Lyric by Paul Hewson"
             ]
         },
         "Best Picture": {
@@ -2520,22 +2438,6 @@
                 "Jóhann Jóhannsson"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Selma",
-            "winner_cast": "“Glory” from Selma; Music and Lyric by John Stephens and Lonnie Lynn",
-            "nominees_movies": [
-                "The Lego Movie",
-                "Beyond the Lights",
-                "Glen Campbell…I’ll Be Me",
-                "Begin Again"
-            ],
-            "nominees_cast": [
-                "“Everything Is Awesome” from The Lego Movie; Music and Lyric by Shawn Patterson",
-                "“Grateful” from Beyond the Lights; Music and Lyric by Diane Warren",
-                "“I’m Not Gonna Miss You” from Glen Campbell…I’ll Be Me; Music and Lyric by Glen Campbell and Julian Raymond",
-                "“Lost Stars” from Begin Again; Music and Lyric by Gregg Alexander and Danielle Brisebois"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "Birdman or (The Unexpected Virtue of Ignorance)",
             "winner_cast": "Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",
@@ -2908,22 +2810,6 @@
                 "John Williams"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Spectre",
-            "winner_cast": "“Writing’s On The Wall” from Spectre; Music and Lyric by Jimmy Napes and Sam Smith",
-            "nominees_movies": [
-                "Fifty Shades of Grey",
-                "Racing Extinction",
-                "Youth",
-                "The Hunting Ground"
-            ],
-            "nominees_cast": [
-                "“Earned It” from Fifty Shades of Grey; Music and Lyric by The Weeknd, Ahmad Balshe, Jason Quenneville and Stephan Moccio",
-                "“Manta Ray” from Racing Extinction; Music by J. Ralph, Lyric by Anohni",
-                "“Simple Song #3” from Youth; Music and Lyric by David Lang",
-                "“Til It Happens To You” from The Hunting Ground; Music and Lyric by Diane Warren and Lady Gaga"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "Spotlight",
             "winner_cast": "Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",
@@ -3294,22 +3180,6 @@
                 "Dustin O'Halloran and Hauschka",
                 "Nicholas Britell",
                 "Thomas Newman"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "City of Stars",
-            "winner_cast": "from La La Land; Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",
-            "nominees_movies": [
-                "Audition (The Fools Who Dream)",
-                "Can't Stop The Feeling",
-                "The Empty Chair",
-                "How Far I'll Go"
-            ],
-            "nominees_cast": [
-                "from La La Land; Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",
-                "from Trolls; Music and Lyric by Justin Timberlake, Max Martin and Karl Johan Schuster",
-                "from Jim: The James Foley Story; Music and Lyric by J. Ralph and Sting",
-                "from Moana; Music and Lyric by Lin-Manuel Miranda"
             ]
         },
         "Best Picture": {
@@ -3686,22 +3556,6 @@
                 "Carter Burwell"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Remember Me",
-            "winner_cast": "from Coco; Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
-            "nominees_movies": [
-                "Mighty River",
-                "Mystery Of Love",
-                "Stand Up For Something",
-                "This Is Me"
-            ],
-            "nominees_cast": [
-                "from Mudbound; Music and Lyric by Mary J. Blige, Raphael Saadiq and Taura Stinson",
-                "from Call Me by Your Name; Music and Lyric by Sufjan Stevens",
-                "from Marshall; Music by Diane Warren; Lyric by Lonnie R. Lynn and Diane Warren",
-                "from The Greatest Showman; Music and Lyric by Benj Pasek and Justin Paul"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "The Shape of Water",
             "winner_cast": "Guillermo del Toro and J. Miles Dale, Producers",
@@ -4074,22 +3928,6 @@
                 "Nicholas Britell",
                 "Alexandre Desplat",
                 "Marc Shaiman"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "Shallow",
-            "winner_cast": "from A Star Is Born; Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",
-            "nominees_movies": [
-                "All The Stars",
-                "I'll Fight",
-                "The Place Where Lost Things Go",
-                "When A Cowboy Trades His Spurs For Wings"
-            ],
-            "nominees_cast": [
-                "from Black Panther; Music by Kendrick Lamar, Mark “Sounwave” Spears and Anthony “Top Dawg” Tiffith; Lyric by Kendrick Lamar, SZA and Anthony “Top Dawg” Tiffith",
-                "from RBG; Music and Lyric by Diane Warren",
-                "from Mary Poppins Returns; Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman",
-                "from The Ballad of Buster Scruggs; Music and Lyric by Gillian Welch and David Rawlings"
             ]
         },
         "Best Picture": {
@@ -4466,22 +4304,6 @@
                 "Randy Newman",
                 "Thomas Newman",
                 "John Williams"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "(I'm Gonna) Love Me Again",
-            "winner_cast": "from Rocketman; Music by Elton John; Lyric by Bernie Taupin",
-            "nominees_movies": [
-                "I Can't Let You Throw Yourself Away",
-                "I'm Standing With You",
-                "Into The Unknown",
-                "Stand Up"
-            ],
-            "nominees_cast": [
-                "from Toy Story 4; Music and Lyric by Randy Newman",
-                "from Breakthrough; Music and Lyric by Diane Warren",
-                "from Frozen II; Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
-                "from Harriet; Music and Lyric by Joshuah Brian Campbell and Cynthia Erivo"
             ]
         },
         "Best Picture": {
@@ -4862,22 +4684,6 @@
                 "James Newton Howard"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Fight For You",
-            "winner_cast": "from Judas and the Black Messiah; Music by H.E.R. and Dernst Emile II; Lyric by H.E.R. and Tiara Thomas",
-            "nominees_movies": [
-                "Hear My Voice",
-                "Husavik",
-                "Io Sì (Seen)",
-                "Speak Now"
-            ],
-            "nominees_cast": [
-                "from The Trial of the Chicago 7; Music by Daniel Pemberton; Lyric by Daniel Pemberton and Celeste Waite",
-                "from Eurovision Song Contest: The Story of Fire Saga; Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard Göransson",
-                "from The Life Ahead (La Vita Davanti a Se); Music by Diane Warren; Lyric by Diane Warren and Laura Pausini",
-                "from One Night in Miami...; Music and Lyric by Leslie Odom, Jr. and Sam Ashworth"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "Nomadland",
             "winner_cast": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",
@@ -5236,22 +5042,6 @@
                 "Germaine Franco",
                 "Alberto Iglesias",
                 "Jonny Greenwood"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "No Time To Die",
-            "winner_cast": "from No Time to Die; Music and Lyric by Billie Eilish and Finneas O'Connell",
-            "nominees_movies": [
-                "Be Alive",
-                "Dos Oruguitas",
-                "Down To Joy",
-                "Somehow You Do"
-            ],
-            "nominees_cast": [
-                "from King Richard; Music and Lyric by DIXSON and Beyoncé Knowles-Carter",
-                "from Encanto; Music and Lyric by Lin-Manuel Miranda",
-                "from Belfast; Music and Lyric by Van Morrison",
-                "from Four Good Days; Music and Lyric by Diane Warren"
             ]
         },
         "Best Picture": {
@@ -5618,22 +5408,6 @@
                 "John Williams"
             ]
         },
-        "Music (Original Song)": {
-            "winner_movie": "Naatu Naatu",
-            "winner_cast": "from RRR; Music by M.M. Keeravaani; Lyric by Chandrabose",
-            "nominees_movies": [
-                "Applause",
-                "Hold My Hand",
-                "Lift Me Up",
-                "This Is A Life"
-            ],
-            "nominees_cast": [
-                "from Tell It like a Woman; Music and Lyric by Diane Warren",
-                "from Top Gun: Maverick; Music and Lyric by Lady Gaga and BloodPop",
-                "from Black Panther: Wakanda Forever; Music by Tems, Rihanna, Ryan Coogler and Ludwig Goransson; Lyric by Tems and Ryan Coogler",
-                "from Everything Everywhere All at Once; Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne"
-            ]
-        },
         "Best Picture": {
             "winner_movie": "Everything Everywhere All at Once",
             "winner_cast": "Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",
@@ -5996,22 +5770,6 @@
                 "John Williams",
                 "Robbie Robertson",
                 "Jerskin Fendrix"
-            ]
-        },
-        "Music (Original Song)": {
-            "winner_movie": "What Was I Made For?",
-            "winner_cast": "from Barbie; Music and Lyric by Billie Eilish and Finneas O'Connell",
-            "nominees_movies": [
-                "The Fire Inside",
-                "I'm Just Ken",
-                "It Never Went Away",
-                "Wahzhazhe (A Song For My People)"
-            ],
-            "nominees_cast": [
-                "from Flamin' Hot; Music and Lyric by Diane Warren",
-                "from Barbie; Music and Lyric by Mark Ronson and Andrew Wyatt",
-                "from American Symphony; Music and Lyric by Jon Batiste and Dan Wilson",
-                "from Killers of the Flower Moon; Music and Lyric by Scott George"
             ]
         },
         "Best Picture": {
